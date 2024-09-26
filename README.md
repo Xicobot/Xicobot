@@ -2,7 +2,7 @@
 <h1 align="center">sudo cat /etc/hosts | grep -w "profesionals in work"</h1>
 <h3 align="center">127.0.0.1 Deneb.localhost</h3>
 
-#The following lines are things that im working on
+<h4> #The following lines are things that im working on </h4>
 <p aling="left">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="image" width="450" align="right">
 </p>
