@@ -2,12 +2,6 @@
 <h1 align="center">nano /etc/hosts</h1>
 <h3 align="center">127.0.0.1 Deneb.localhost</h3>
 
-- 📚 I’m currently studying on **2ASIR**
-
-- 🏫 I’m looking to collaborate on **everything**
-
-- 💬 Ask me about **anything you want**
-
 - 📫 How to reach/contact me **denebdonosoduran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
