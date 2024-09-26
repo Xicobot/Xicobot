@@ -10,7 +10,7 @@
 * 🖥️ System administration
 
 * 📂 Code developer
-
+![Gif](https://giphy.com/embed/qdf1QyvxipVh6)
 
 <h3 align="left">Work:</h3>
 <p align="left">
