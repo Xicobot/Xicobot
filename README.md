@@ -1,5 +1,5 @@
 
-<h1 align="center">nano /etc/hosts</h1>
+<h1 align="center">sudo cat /etc/hosts | grep -w "Profesionals in work"</h1>
 <h3 align="center">127.0.0.1 Deneb.localhost</h3>
 
 <h3 align="left">Work:</h3>
