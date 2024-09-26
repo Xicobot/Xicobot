@@ -10,14 +10,14 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me **denebdonosoduran@gmail.com**
+- 📫 How to reach/contact me **denebdonosoduran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deneb donoso durán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deneb donoso durán" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/xicobot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xicobot" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deneb-donoso-dur%C3%A1n-108543292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deneb donoso durán" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/Xicobot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xicobot" height="30" width="40" /></a>
 <a href="https://instagram.com/denefsurrat_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denefsurrat_15" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xicobot-proyects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xicobot-proyects](https://www.youtube.com/@XicobotPro" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@XicobotPro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xicobot-proyects" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
