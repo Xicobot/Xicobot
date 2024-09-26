@@ -15,6 +15,8 @@
 
 * 📂 Code developer
 
+* 🐧 Linux enjoyer
+
 
 
 <h3 align="left">Work:</h3>
