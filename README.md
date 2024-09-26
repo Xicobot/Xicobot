@@ -15,10 +15,6 @@
 
 * 📂 Code developer
 
-* 🐧 Linux enjoyer
-
-
-
 <h3 align="left">Work:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deneb-donoso-dur%C3%A1n-108543292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deneb donoso durán" height="30" width="40" /></a>
