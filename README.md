@@ -4,7 +4,7 @@
 <p aling="left">
   
 </p>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="image" aling="right width:"450px">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="image" align="right width:"450px">
 #The following lines are things that im working on
 
 * 👨‍💻 Ethical hacking
