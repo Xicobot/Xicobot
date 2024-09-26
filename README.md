@@ -4,7 +4,7 @@
 
 - 📚 I’m currently studying on **2ASIR**
 
-- 👯 I’m looking to collaborate on **everything**
+- 🏫 I’m looking to collaborate on **everything**
 
 - 💬 Ask me about **anything you want**
 
