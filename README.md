@@ -11,7 +11,7 @@
 
 * 📂 Code developer
 ![Gif](![image](https://github.com/user-attachments/assets/d14ea573-e157-496f-b474-6ef76600d1f8)
-)
+
 
 <h3 align="left">Work:</h3>
 <p align="left">
