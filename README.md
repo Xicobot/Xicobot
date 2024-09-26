@@ -10,7 +10,7 @@
 * 🖥️ System administration
 
 * 📂 Code developer
-![Gif](![image](https://github.com/user-attachments/assets/d14ea573-e157-496f-b474-6ef76600d1f8)
+![image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif)
 
 
 <h3 align="left">Work:</h3>
