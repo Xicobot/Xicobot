@@ -2,10 +2,14 @@
 <h1 align="center">sudo cat /etc/hosts | grep -w "profesionals in work"</h1>
 <h3 align="center">127.0.0.1 Deneb.localhost</h3>
 #The following lines are things that im working on
-- 👨‍💻 Ethical hacking
-- 🌏 Network monitoring & security
-- 🖥️ System administration
-- 📂 Code developer
+
+* 👨‍💻 Ethical hacking
+
+* 🌏 Network monitoring & security
+
+* 🖥️ System administration
+
+* 📂 Code developer
 
 
 <h3 align="left">Work:</h3>
