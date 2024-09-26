@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deneb Donoso Duran</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently stying on **2ASIR**
-
-- 🌱 I’m currently learning **2ASIR**
+- 📚 I’m currently studying on **2ASIR**
 
 - 👯 I’m looking to collaborate on **everything**
 
