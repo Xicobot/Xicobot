@@ -1,11 +1,11 @@
 
 <h1 align="center">sudo cat /etc/hosts | grep -w "profesionals in work"</h1>
 <h3 align="center">127.0.0.1 Deneb.localhost</h3>
-<p aling="left">
-  
-</p>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="image" align="right width:"450px">
+
 #The following lines are things that im working on
+<p aling="left">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="image" width="550" align="right">
+</p>
 
 * 👨‍💻 Ethical hacking
 
@@ -15,7 +15,8 @@
 
 * 📂 Code developer
 
-</p>
+
+
 <h3 align="left">Work:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deneb-donoso-dur%C3%A1n-108543292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deneb donoso durán" height="30" width="40" /></a>
