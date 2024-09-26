@@ -11,7 +11,7 @@
 
 * 📂 Code developer
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" style="float: right; margin-left: 200px; width: 450px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxcjR1cm9sdGR4dW5oa2F3eHY0NmFjaW9sdzlxaXEzbjVla2w2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" style="float: right; margin-left: 200px; width: 500px;">
 
 <h3 align="left">Work:</h3>
 <p align="left">
