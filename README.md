@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Deneb (Xicobot)</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h1 align="center">nano /etc/hosts</h1>
+<h3 align="center">127.0.0.1 Deneb.localhost</h3>
 
 - 📚 I’m currently studying on **2ASIR**
 
