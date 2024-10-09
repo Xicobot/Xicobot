@@ -1,6 +1,6 @@
 
 <h1 align="center">sudo cat /etc/hosts | grep -w "profesionals in work"</h1>
-<h3 align="center">127.0.0.1 Deneb.localhost</h3>
+<h3 align="center">127.0.0.1 Deneb.localhost#53</h3>
 
 <h4> #The following lines are things that im working on </h4>
 <p aling="left">
