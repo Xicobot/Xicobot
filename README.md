@@ -15,6 +15,8 @@
 
 * 📂 Code developer
 
+* 📖 Data analyst with OCR software
+
 ---
 
 <h3 align="left">Work:</h3>
